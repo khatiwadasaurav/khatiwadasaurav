@@ -1,22 +1,72 @@
-Hey, I'm Saurav
-Full stack engineer building at the intersection of AI and financial markets.
-Currently a Senior Software Engineer at Valiantys, leading TypeScript-based enterprise automation tooling. On my own time, I built Asymmetry — a multi-strategy AI trading analysis platform, solo, from scratch.
-What I'm working on
-Asymmetry — AI-powered trading analysis platform combining real-time market data with multi-provider LLM analysis. React dashboard, Express.js API, Python analysis engine, and a multi-provider AI orchestration layer (Claude, GPT-4, Grok, Gemini) with structured output validation and automatic failover. Features include stock analysis with entry/exit signals, market breadth regime detection, next-session forecasting, and a 12-step post-market automation chain with state machines and risk gates.
-TradingView Pine Script — Custom indicators including a Market Metrics Dashboard (RS Rating, projected volume, ADR%, U/D volume ratio, 52-week positioning, liquidity analysis, VWAP/EMA bias detection).
-Valiantys — Building TypeScript CLI tools and Atlassian Forge automation for enterprise Jira Cloud migrations. Race condition prevention, architectural refactoring, queue-based systems.
-Tech I work with
-TypeScript React Next.js Node.js Express Python PostgreSQL Redis WebSockets GraphQL
-Claude API OpenAI API LLM Orchestration Structured Output Validation Prompt Engineering Vercel AI SDK
-Azure (AKS) AWS CI/CD Jest Atlassian Forge TradingView Pine Script
-Background
+# 👋 Hey, I'm Saurav  
 
-9+ years shipping production software — enterprise platforms, distributed systems, AI products
-M.S. in Computer Science (Machine Learning) — Georgia Tech (in progress)
-B.Sc. in CS & IT — Tribhuvan University
-I actually trade — momentum strategies, options flow, market breadth, sector rotation
+💻 **Full-Stack Engineer** building at the intersection of **AI 🤖 + Financial Markets 📈**
 
-Let's connect
+Currently a **Senior Software Engineer @ Valiantys**  
+Building TypeScript-based enterprise automation tooling.
 
-LinkedIn
-khatiwadasaurav10@gmail.com
+On my own time, I built **Asymmetry** — a multi-strategy AI trading analysis platform — solo, from scratch.
+
+---
+
+## 🚀 What I'm Building
+
+### 🧠 Asymmetry — AI Trading Analysis Platform
+
+AI-powered trading intelligence combining real-time market data with multi-provider LLM orchestration.
+
+**Architecture**
+- ⚛️ React Dashboard  
+- 🟢 Express.js API  
+- 🐍 Python Analysis Engine  
+- 🔀 Multi-provider AI layer (Claude, GPT-4, Grok, Gemini)  
+- ✅ Structured output validation + automatic failover  
+
+**Capabilities**
+- 📊 Stock analysis with entry/exit signals  
+- 🌎 Market breadth & regime detection  
+- 🔮 Next-session forecasting  
+- 🔁 12-step post-market automation chain  
+- 🧱 State machines + risk gates  
+
+---
+
+### 📈 TradingView Pine Script
+
+Custom indicators including:
+
+- 📊 Market Metrics Dashboard  
+  - RS Rating  
+  - Projected Volume  
+  - ADR%  
+  - U/D Volume Ratio  
+  - 52-week positioning  
+  - Liquidity analysis  
+  - VWAP / EMA bias detection  
+
+---
+
+### 🏢 Valiantys
+
+Building:
+- 🛠 TypeScript CLI tools  
+- ☁️ Atlassian Forge automation  
+- 🔄 Enterprise Jira Cloud migrations  
+
+Focus areas:
+- ⚡ Race condition prevention  
+- 🧩 Architectural refactoring  
+- 📬 Queue-based distributed systems  
+
+---
+
+## 🛠 Tech Stack
+
+**Languages & Core**
+  - TypeScript | Python | SQL
+**Frontend**
+  - React | Next.js
+**Backend**
+  - Node.js | Express | GraphQL | WebSockets
+**Data**
+  - PostgreSQL | Redis
