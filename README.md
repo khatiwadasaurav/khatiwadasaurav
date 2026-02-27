@@ -42,7 +42,11 @@ Custom indicators including:
   - U/D Volume Ratio  
   - 52-week positioning  
   - Liquidity analysis  
-  - VWAP / EMA bias detection  
+  - VWAP / EMA bias detection
+
+- 🔥 Volume Heatmap  
+  - Buy vs Sell pressure visualization  
+  - Configurable confirmation filters  
 
 ---
 
